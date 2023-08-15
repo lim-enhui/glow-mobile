@@ -1,0 +1,7 @@
+{
+  "name": "glow-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
